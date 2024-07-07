@@ -66,3 +66,4 @@ O dataset tem 20 variáveis/atributos:
 * Data_Value_Footnote_Symbol: Símbolo de nota de rodapé do valor dos dados, pode ser descartado se não for relevante.
 * Data_Value_Footnote: Nota de rodapé do valor dos dados, pode ser descartado se não for relevante.
  
+ Vamos usar RandomForestClassifier para o diagnóstico precoce de doenças cardíacas.
