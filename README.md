@@ -1,8 +1,8 @@
-# projeto-final-ebac
+# projeto-semantix-ebac
 
 ### Diagnóstico Precoce de Doenças Cardíacas Utilizando Machine Learning
 
-Este projeto se refere ao projeto final do curso Profissão Cientista de Dados da <a href="https://ebaconline.com.br/" target='_blank'>EBAC</a> em parceria com a <a href='https://semantix.ai/' target='_blank'>SEMANTIX</a> e foi realizado para aplicar os conhecimentos adquiridos durante o referido curso.
+Este projeto se refere ao projeto do curso Profissão Cientista de Dados da <a href="https://ebaconline.com.br/" target='_blank'>EBAC</a> em parceria com a <a href='https://semantix.ai/' target='_blank'>SEMANTIX</a> e foi realizado para aplicar os conhecimentos adquiridos durante o referido curso.
 
 O objetivo do projeto é:
 <ul>
